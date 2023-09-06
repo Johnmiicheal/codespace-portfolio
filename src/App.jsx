@@ -27,7 +27,7 @@ const siteProps = {
   name: "Johnmicheal Elijah",
   title: "FullStack Developer & UI Designer",
   email: "michealelijah301@gmail.com",
-  gitHub: "https://github.com/johnmiicheal",
+  gitHub: "johnmiicheal",
   linkedIn: "johnmiicheal",
   twitter: "johnmiiiicheal",
   youTube: "@neopnk",
