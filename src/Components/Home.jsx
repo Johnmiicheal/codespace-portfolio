@@ -13,16 +13,17 @@ import PropTypes from "prop-types";
  * Home background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
 
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+const image =
+  "https://img.freepik.com/free-photo/cloud-computing-banner-background-smart-city_53876-108504.jpg?w=1380&t=st=1694040931~exp=1694041531~hmac=64d66da835b4e467a82f83ca39659bbceaa80cd37710e430df0eeb95c3618a0b";
+const imageAltText = "background image of a computer network";
 
 const Home = ({ name, title }) => {
   return (
